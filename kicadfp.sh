@@ -1,4 +1,4 @@
-rm -r kicad-footprints
+rm -rf kicad-footprints
 
 mkdir kicad-footprints
 
